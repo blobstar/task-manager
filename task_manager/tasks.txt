@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Snoop Dogg, take a long smoke break, There is no need to elaborizzle on this task, 10 Oct 2019, 30 Dec 2080, No
+Elton John, hold me closer tiny dancer, Ballerina, 10 Oct 2019, 12 Jan 2100, No
+Snoop Dogg, taking out the trash, Please dispose of the trash, 12 Oct 2022, 10 Oct 2034, No
+
+t, t, t, 17 Oct 2021, t, No
